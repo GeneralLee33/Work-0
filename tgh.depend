@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480864344 source:c:\users\Денис\desktop\Учеба\tgh\main.cpp
+	<cstdlib>
+	<iostream>
+	<locale>
+
